@@ -1,0 +1,37 @@
+W dziele [5] autor przedstawia sytuacjê Danii [2]. Zamordowany zosta³ ojciec ksiêcia Hamleta.
+M³ody ksi¹¿ê otrzymuje z zaœwiatów trudne zadanie - musi dokonaæ zemsty. Tymczasem król Klaudiusz knuje nastêpn¹ zbrodniê.
+
+[3] to niezwyk³a ksi¹¿ka o matematyce. Autorzy, wybitni matematycy informatyczni, dostrzegli lukê na rynku wydawniczym - brak pozycji, 
+w której by³yby zebrane treœci matematyczne potrzebne informatykowi. Chodzi³o o wy³o¿enie metod rozwi¹zywania skomplikowanych problemów,
+wyliczania ogromnych sum i dostrzegania subtelnych wzorców w otaczaj¹cym nas œwiecie. 
+Umiejêtnoœci te potrzebne s¹ przy konstruowaniu i analizowaniu algorytmów komputerowych. W ksi¹¿ce tej znajdzie dla siebie rzeczy ciekawe zarówno
+licealista zainteresowany matematyk¹ lub informatyk¹, jak i zawodowy matematyk czy programista. 
+Polecamy j¹ wszystkim studentom matematyki, informatyki, wydzia³ów politechnicznych, jak równie¿ wszystkim tym, którzy po prostu lubi¹ tê dziedzinê nauki.
+
+[4] to jedna z kultowych i najczêœciej cenzurowanych ksi¹¿ek XX w., ¿elazna pozycja literatury feministycznej,
+niezaprzeczalny evergreen dla kolejnych generacji wchodz¹cych doros³oœæ.
+Szklany klosz jest uwa¿any przez czytelników na ca³ym œwiecie za ostatni akord w tragicznej biografii Sylvii Plath – 
+miesi¹c po premierze ksi¹¿ki autorka pope³ni³a samobójstwo. G³ówna bohaterka, dziewiêtnastoletnia Esther Greenwood z Bostonu,
+zostaje nagrodzona przez poczytny magazyn miesiêcznym pobytem w Nowym Jorku. Jej zadaniem jest sta¿ w redakcji,
+poza tym ma poznawaæ miasto, braæ udzia³ w wydarzeniach kulturalnych i spêdzaæ mi³o czas.
+Jednak neurotyczny temperament Esther sprawia, ¿e konfrontacja jej aspiracji i marzeñ z rzeczywistoœci¹ prowadzi do dramatycznego fina³u.
+
+[1] to zbiór opowiadañ,gdzie jak zwykle tematami dominuj¹cymi s¹ seks, alkohol, kobiety, zak³ady oraz relacje miêdzyludzkie.
+Autor mówi tak¿e o mrocznych obszarach ludzkich namiêtnoœci, o dojmuj¹cej samotnoœci, balansuj¹cej niekiedy na granicy ob³êdu.
+Bukowski okazuje siê prawdziwym wirtuozem ma³ych form. Potrafi na kilku stronach zarysowaæ fabu³ê, która innym starczy³aby na opas³¹ powieœæ.
+
+[6] opowiada o wspomnieniach autora. Barcelona, lata osiemdziesi¹te XX wieku. Oscar Drai, zauroczony atmosfer¹ podupadaj¹cych
+secesyjnych pa³acyków otaczaj¹cych jego szko³ê z internatem, œni swoje sny na jawie. Pewnego dnia spotyka Marinê, która od pierwszej
+chwili wydaje mu siê nie mniej fascynujaca ni¿ sekrety dawnej Barcelony. Œledz¹c zagadkow¹ damê w czerni, odwiedzaj¹ca co miesi¹c 
+bezimienny nagrobek na cmentarzu dzielnicy Sarriá, Oscar i jego przyjació³ka poznaj¹ zapomnian¹ od lat historiê rodem z Frankensteina i XIX-wiecznych thrillerów.
+
+******************************************************
+BIBLIOGRAFIA
+******************************************************
+
+[1] Charles Bukowski Na po³udnie od nigdzie
+[2] Jan Florjanowicz Rocznik Statystyczny 2011
+[3] Robert Graham Matematyka Konkretna
+[4] Sylvia Plath Szklany klosz
+[5] William Shakespeare Hamlet
+[6] Carlos Zafon Marina
