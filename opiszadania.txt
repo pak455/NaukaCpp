@@ -1,0 +1,8 @@
+Zadanie:
+1) Dany mamy plik GPX (przyk³adowy plik za³¹czono). Odczytujemy z niego informacje o punktach -- d³ugoœæ i szerokoœæ geograficzn¹, oraz czas pozyskania punktu. (W za³¹czonym pliku nie ma informacji o wysokoœci, choæ w ogólnym przypadku mo¿e ona wyst¹piæ.)
+Odczytane dane zapisujemy do listy.
+2) Listê z punktami analizujemy:
+a) wyliczamy odleg³oœci miêdzy punktami, sumujemy je dla ca³ej listy;
+b) wyliczamy d³ugoœæ drogi/treningu w oparciu o uœrednione pozycje punktów;
+c) wyliczamy prêdkoœci -- chwilowe i œredni¹.
+3) Wracamy do odczytu -- odczytujemy strukturê pliku GPX (w formie przypominaj¹cej drzewo drzewa -- analiza struktury).
